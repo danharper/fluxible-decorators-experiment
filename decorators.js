@@ -1,4 +1,5 @@
 import React from 'react'
+import connectToStores from 'fluxible/addons/connectToStores'
 
 /**
  * Decorates a Component to listen on given stores
